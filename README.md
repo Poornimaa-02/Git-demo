@@ -1,2 +1,4 @@
 # Git-demo
-My first github 
+My first git repository
+<br> 
+Author Poornima Singh
